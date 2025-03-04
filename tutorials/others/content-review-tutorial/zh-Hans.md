@@ -1,5 +1,5 @@
 ---
-name: 贡献 - 回顾
+name: 校对或审阅内容
 description: 如何参与审查 Plan ₿ Network 上的教育内容？
 ---
 ![github](assets/cover.webp)
