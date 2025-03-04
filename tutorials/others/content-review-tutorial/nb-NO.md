@@ -1,5 +1,5 @@
 ---
-name: Bidrag - Gjennomgang
+name: Korrekturlesing eller gjennomgang av innhold
 description: Hvordan delta i gjennomgangen av pedagogisk innhold på Plan ₿ Network?
 ---
 ![github](assets/cover.webp)
