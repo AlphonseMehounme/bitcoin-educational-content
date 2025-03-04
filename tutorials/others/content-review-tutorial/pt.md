@@ -1,5 +1,5 @@
 ---
-name: Contribuição - Revisão
+name: Revisão de conteúdo
 description: Como participar na revisão dos conteúdos educativos na Rede Plan ₿?
 ---
 ![github](assets/cover.webp)
