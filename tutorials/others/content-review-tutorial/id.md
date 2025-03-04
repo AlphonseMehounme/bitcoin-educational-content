@@ -1,5 +1,5 @@
 ---
-name: Kontribusi - Ulasan
+name: Pemeriksaan atau Peninjauan konten
 description: Bagaimana cara berpartisipasi dalam peninjauan konten edukasi di Plan ₿ Network?
 ---
 ![github](assets/cover.webp)
