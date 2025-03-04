@@ -1,5 +1,5 @@
 ---
-name: Contribution - Relecture
+name: Relecture ou révision de contenu
 description: Comment participer à la revue du contenu éducatif sur PlanB Network ?
 ---
 ![github](assets/cover.webp)
