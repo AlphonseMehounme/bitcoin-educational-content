@@ -1,5 +1,5 @@
 ---
-name: Osallistuminen - Arvostelu
+name: Oikoluku tai sisällön tarkistaminen
 description: Miten osallistua Plan ₿ Networkin koulutussisällön tarkistamiseen?
 ---
 ![github](assets/cover.webp)
