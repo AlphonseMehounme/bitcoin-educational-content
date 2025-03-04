@@ -1,5 +1,5 @@
 ---
-name: Contribución - Revisión
+name: Proofreading o revisión de contenido
 description: Cómo participar en la revisión de contenidos educativos en la Red Plan ₿?
 ---
 ![github](assets/cover.webp)
