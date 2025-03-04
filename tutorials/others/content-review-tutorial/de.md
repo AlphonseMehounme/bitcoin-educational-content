@@ -1,5 +1,5 @@
 ---
-name: Beitrag - Rückblick
+name: Korrekturlesen oder Überprüfen von Inhalten
 description: Wie kann man sich an der Überprüfung von Bildungsinhalten im Plan ₿ Network beteiligen?
 ---
 ![github](assets/cover.webp)
