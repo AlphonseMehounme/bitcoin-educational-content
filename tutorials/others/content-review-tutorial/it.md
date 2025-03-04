@@ -1,17 +1,17 @@
 ---
-name: Contributo - Recensione
-description: Come partecipare alla revisione dei contenuti didattici della Rete Plan ₿?
+name: Proofreading o revisione di contenuti
+description: Come partecipare alla revisione dei contenuti didattici di Plan ₿ Network?
 ---
 ![github](assets/cover.webp)
 
 ## In sintesi
 
-Se vuoi partecipare alla revisione e alla correzione di contenuti per Plan ₿ Network, unisciti al [nostro gruppo Telegram](https://t.me/PlanBNetwork_ContentBuilder) dedicato ai contributi. Presentati brevemente, poi specifica il contenuto che vorresti revisionare e la lingua. Apportate le vostre correzioni su un ramo funzionante e inviate un PR una volta completata la revisione.
+Se vuoi partecipare al proofreading o alla correzione di contenuti per Plan ₿ Network, unisciti al [nostro gruppo Telegram](https://t.me/PlanBNetwork_ContentBuilder) dedicato ai contributi. Presentati brevemente, poi specifica il contenuto che vorresti revisionare e la lingua. Apportate le vostre correzioni su un ramo funzionante e inviate un PR una volta completata la revisione.
 
 Se non avete capito la parte precedente, non preoccupatevi: questo tutorial è per voi!
 
 ---
-## Che cos'è il Piano ₿ Network?
+## Che cos'è Plan ₿ Network?
 
 Plan ₿ Network è una piattaforma per imparare a conoscere Bitcoin attraverso numerosi corsi e tutorial per tutti. Attualmente, tutti i nostri contenuti sono open-source, ospitati su un repository GitHub e aperti a contributi per la revisione e la creazione di contenuti.
 
@@ -37,9 +37,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 1. Creare un account
 
 
-- Create un account su [GitHub](https://github.com/) per iniziare a contribuire. Se volete una guida alla creazione del vostro account GitHub, abbiamo anche un tutorial dettagliato:
-
-https://planb.network/tutorials/others/contribution/create-github-account-a75fc39d-f0d0-44dc-9cd5-cd94aee0c07c
+- Create un account su [GitHub](https://github.com/) per iniziare a contribuire. Se volete una guida alla creazione del vostro account GitHub, si può cliccare sul tutorial menzionato sopra.
 
 - È inoltre necessario un account sull'app di messaggistica [Telegram] (https://telegram.org/).
 
