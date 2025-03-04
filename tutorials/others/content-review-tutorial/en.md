@@ -1,12 +1,12 @@
 ---
-name: Contribution - Review
-description: How to participate in the review of educational content on Plan ₿ Network?
+name: Proofreading or Reviewing content
+description: How can you participate in the proofreading/review of educational content on Plan ₿ Network?
 ---
 ![github](assets/cover.webp)
 
 ## In Summary
 
-If you want to participate in reviewing and correcting content for Plan ₿ Network, join [our Telegram group](https://t.me/PlanBNetwork_ContentBuilder) dedicated to contributions. Introduce yourself briefly, then specify the content you’d like to review and the language. Make your corrections on a working branch and submit a PR once your review is complete.
+If you want to proofread or review content for Plan ₿ Network, join [our Telegram group](https://t.me/PlanBNetwork_ContentBuilder) dedicated to contributions. Introduce yourself briefly, then specify the content you’d like to review, and the language. Make your corrections on a working branch and submit a PR once your review is complete.
 
 If you didn’t understand the part above, don’t worry—this tutorial is for you!
 
@@ -38,10 +38,8 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 
 ## 1. Create an account
 
-- Create an account on [GitHub](https://github.com/) to start contributing. If you want guidance on creating your GitHub account, we also have a detailed tutorial:
-
-https://planb.network/tutorials/others/contribution/create-github-account-a75fc39d-f0d0-44dc-9cd5-cd94aee0c07c
-
+- Create an account on [GitHub](https://github.com/) to start contributing. If you want guidance on creating your GitHub account, go to the tutorial mentioned just above.
+- 
 - You will also need an account on the messaging app [Telegram](https://telegram.org/).
 
 ## 2. Join the Telegram group
