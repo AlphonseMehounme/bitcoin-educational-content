@@ -1,5 +1,5 @@
 ---
-name: Příspěvek - recenze
+name: Korektura nebo revize obsahu
 description: Jak se zapojit do hodnocení vzdělávacího obsahu v síti Plan ₿?
 ---
 ![github](assets/cover.webp)
