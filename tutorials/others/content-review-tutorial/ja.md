@@ -1,5 +1,5 @@
 ---
-name: 貢献 - レビュー
+name: 校正またはコンテンツのレビュー
 description: Plan ȏ Networkの教育コンテンツのレビューに参加するには？
 ---
 ![github](assets/cover.webp)
