@@ -1,5 +1,5 @@
 ---
-name: Panus - Ülevaade
+name: Tõlgete kontrollimine või sisu ülevaatamine
 description: Kuidas osaleda Plan ₿ Networki haridusliku sisu läbivaatamisel?
 ---
 ![github](assets/cover.webp)
