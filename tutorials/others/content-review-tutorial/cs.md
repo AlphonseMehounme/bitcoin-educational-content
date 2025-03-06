@@ -136,8 +136,18 @@ POZN. Doporučujeme prohlížet v okně kódu, přičemž původní obsah se zob
 
 ![REVIEW](assets/fr/11.webp)
 
-## 6. Počkejte na recenzi
+## 6. Pravidla, která je třeba dodržovat při korekturách obsahu
 
+- Před zahájením nové korektury to oznámte v [Telegram](https://t.me/PlanBNetwork_ContentBuilder) skupině nebo informujte svého koordinátora Plan ₿ Network. Otevřou [issue]((https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues), kde můžete komentovat, že začínáte pracovat.
+- Je důležité vždy zkontrolovat původní anglickou (nebo francouzskou) verzi kurzu/tutorialu při korektuře. Nebojte se provádět úpravy pro zlepšení plynulosti, ale neměňte celkový původní význam.
+- Nástroje LLM mohou doslovně překládat některá slova související s Bitcoinem, jako je Lightning Network, které by se v italštině stalo "Rete Fulmine". V takových případech je doporučeno použít původní anglické slovo pro lepší srozumitelnost, pokud vám pravidla vašeho jazyka neukládají překládat každé jednotlivé slovo.
+- Pokud narazíte na citace, ujistěte se, že provedete nějaký výzkum online, abyste našli správný překlad ve svém jazyce.
+- NEPŘEKLÁDEJTE statická slova na začátku textu, která se používají k popisu jeho obsahu: "name", "description", "objectives".
+- Pokud v textu najdete "Plan ₿ Network", nechte to v této původní podobě. Nepřekládejte slovo "plan" ani slovo "network". Kromě toho NEPOUŽÍVEJTE článek, když představujete Plan ₿ Network, a považujte to za značku. Totéž platí pro "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", které by měly být také zachovány v původní podobě.
+- Věnujte pozornost podivné interpunkci, jako je \*\*, která může představovat špatné zobrazení symbolu pro tučný text **. Vždy zkontrolujte původní anglický text, abyste zjistili, zda tam má být tučný text. Další informace o jazyce markdown naleznete [zde](https://www.markdownguide.org/basic-syntax/).
+- Až dokončíte svou korekturu, můžete se vrátit k původnímu issue, které otevřel koordinátor, okomentovat "Proofreading done" a vložit tam svůj odkaz na PR.
+
+## 7. Počkejte na recenzi
 
 - Gratulujeme, vaše PR bylo odesláno! Jeho průběh můžete sledovat v záložce "Pull requests" v úložišti [Plan ₿ Network's GitHub](https://github.com/PlanB-Network/bitcoin-educational-content/pulls):
 

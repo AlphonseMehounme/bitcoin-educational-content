@@ -136,7 +136,18 @@ NB. Se recomienda revisar en la ventana de código, mostrando el contenido origi
 
 ![REVIEW](assets/fr/11.webp)
 
-## 6. Esperar revisión
+## 6. Reglas a seguir al corregir contenido
+
+- Antes de comenzar una nueva corrección, anúncialo en el [grupo de Telegram](https://t.me/PlanBNetwork_ContentBuilder) o informa a tu coordinador de Plan ₿ Network. Ellos abrirán un [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues), donde puedes comentar que estás comenzando el trabajo.
+- Es importante siempre verificar la versión original en inglés (o francés) del curso/tutorial al corregir. Siéntete libre de hacer ajustes para mejorar la fluidez, pero no cambies el significado original general.
+- Las herramientas LLM pueden traducir literalmente algunas palabras relacionadas con Bitcoin, como Lightning Network, que se convertiría en "Red de Rayos" en español. En casos como este, se recomienda usar la palabra original en inglés para mayor claridad, a menos que las reglas de tu idioma te obliguen a traducir cada palabra.
+- Si encuentras citas, asegúrate de investigar en línea para encontrar la traducción correcta en tu idioma.
+- NO traduzcas las palabras estáticas al principio del texto, que se utilizan para describir su contenido: "name", "description", "objectives".
+- Si encuentras "Plan ₿ Network" en el texto, déjalo en esta forma original. No traduzcas la palabra "plan" ni la palabra "network". Además, NO utilices el artículo al presentar Plan ₿ Network, y considérelo como una marca. Lo mismo se aplica a "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", que también deben mantenerse en la forma original.
+- Presta atención a la puntuación extraña como \*\*, que podría representar una mala representación del símbolo de negrita **. Siempre verifica el texto original en inglés para ver si se supone que debe haber un texto en negrita. Puedes encontrar más información sobre el lenguaje markdown [aquí](https://www.markdownguide.org/basic-syntax/).
+- Cuando termines tu corrección, puedes volver al issue inicial abierto por el coordinador, comentar con "Proofreading done" e insertar allí tu enlace PR.
+
+## 7. Espera la revisión
 
 
 - Enhorabuena, ¡tu PR ha sido enviado! Puede seguir su progreso en la pestaña "Pull requests" del repositorio GitHub de [Plan ₿ Network](https://github.com/PlanB-Network/bitcoin-educational-content/pulls):

@@ -136,7 +136,18 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 
 ![REVIEW](assets/fr/11.webp)
 
-## 6.審査を待つ
+## 6. コンテンツの校正時に従うべきルール
+
+- 新しい校正を始める前に、[Telegramグループ](https://t.me/PlanBNetwork_ContentBuilder)でそれを発表するか、Plan ₿ Networkのコーディネーターに知らせてください。彼らは[issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)を開き、そこで作業を始めることをコメントできます。
+- 校正を行う際は、常にコースやチュートリアルの元の英語（またはフランス語）バージョンを確認することが重要です。流暢さを向上させるために調整を行うことは自由ですが、全体の元の意味を変更しないでください。
+- LLMツールは、Bitcoinに関連するいくつかの単語を文字通り翻訳することがあります。例えば、Lightning Networkはイタリア語で「Rete Fulmine」になります。このような場合、言語のルールがすべての単語を翻訳することを強制しない限り、明確さを高めるために元の英語の単語を使用することをお勧めします。
+- 引用を見つけた場合は、オンラインで調査を行い、自分の言語での正しい翻訳を見つけてください。
+- 静的な単語（"name", "description", "objectives".など）を翻訳しないでください。これらはテキストの内容を説明するために使用されます。
+- テキストに「Plan ₿ Network」が含まれている場合は、そのままの形で残してください。「plan」や「network」という単語を翻訳しないでください。また、Plan ₿ Networkを紹介する際にという冠詞を使用せず、ブランドとして考えてください。「₿-CERT」、「BIZ SCHOOL」、「TECH SCHOOL」についても同様で、元の形を保つべきです。
+- \*\* のような奇妙な句読点に注意してください。これは太字記号**の不適切なレンダリングを表す可能性があります。太字のテキストがそこにあるべきかどうかを確認するために、常に元の英語のテキストをチェックしてください。Markdown言語についての詳細は[こちら](https://www.markdownguide.org/basic-syntax/)で確認できます。
+- 校正が完了したら、コーディネーターが開いた最初のissueに戻り、「Proofreading done」とコメントし、そこにPRリンクを挿入してください。
+
+## 7. レビューを待つ
 
 
 - おめでとうございます！進捗は [Plan ₿ Network's GitHub リポジトリ](https://github.com/PlanB-Network/bitcoin-educational-content/pulls) の "Pull requests" タブで確認できます：
