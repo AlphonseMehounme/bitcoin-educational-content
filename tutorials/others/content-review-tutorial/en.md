@@ -55,15 +55,15 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 
 ## 3. Review and edit the content via GitHub's interface
 
-- The issue contains a description (cf. **A**) with links to the original content and the file to review.  
-- If you want to take charge of the review, leave a comment on the issue (cf. **B**) to indicate that you’ll be working on it. This prevents duplicated efforts.  
-- Click the link next to the file to review (cf. **C**) to access the content.
+- The issue contains a description (cf. \**A\**) with links to the original content and the file to review.  
+- If you want to take charge of the review, leave a comment on the issue (cf. \**B\**) to indicate that you’ll be working on it. This prevents duplicated efforts.  
+- Click the link next to the file to review (cf. \**C\**) to access the content.
 
 ![REVIEW](assets/fr/03.webp)
 
 * You can now view the GitHub interface of the file to review.
-* The left panel allows you to navigate through your branch (cf. **A**) and files (cf. **B**).
-* Click the pencil icon to start reviewing (cf. **C**).
+* The left panel allows you to navigate through your branch (cf. \**A\**) and files (cf. \**B\**).
+* Click the pencil icon to start reviewing (cf. \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -71,7 +71,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 
 ![REVIEW](assets/fr/05.webp)
 
-* You’ll then arrive at the Editor interface (cf. **A**), where you can see the file path and corresponding branch (cf. **B**) and switch between edit and preview modes (cf. **C**).
+* You’ll then arrive at the Editor interface (cf. \**A\**), where you can see the file path and corresponding branch (cf. \**B\**) and switch between edit and preview modes (cf. \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -85,9 +85,9 @@ NB. It’s recommended to review in the code window, with the original content d
 
 ![REVIEW](assets/fr/07.webp)
 
-- Add a descriptive message for your changes (cf. **A**).
-- Add more context in the description if necessary (cf. **B**).
-- Click the "Propose changes" button (cf. **C**).
+- Add a descriptive message for your changes (cf. \**A\**).
+- Add more context in the description if necessary (cf. \**B\**).
+- Click the "Propose changes" button (cf. \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -105,7 +105,7 @@ NB. It’s recommended to review in the code window, with the original content d
 
 ![REVIEW](assets/fr/14.webp)
 
-- Select the branch containing your progress (cf. **A**), locate your content file (cf. **B**), then click on the pencil icon to continue the review.
+- Select the branch containing your progress (cf. \**A\**), locate your content file (cf. \**B\**), then click on the pencil icon to continue the review.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -117,8 +117,8 @@ NB. It’s recommended to review in the code window, with the original content d
 ![REVIEW](assets/fr/10.webp)
 
 - You’ll then arrive at the PR page. A Pull Request is a request to submit changes made on a branch of a remote repository for review and possible merging into the main branch.
-- Add a title and a short description to your PR. The title should match the issue you’re working on. For example, if the issue title is `[TRANSLATION] Course CYP201 - FR`, use the same title for your PR (cf. **A**). In the description, mention the associated issue using its number, preceded by "Closes". This will automatically close the issue once the PR is merged (cf. **B**).  
-- If everything looks good, click the green "Create Pull Request" button (cf. **C**).
+- Add a title and a short description to your PR. The title should match the issue you’re working on. For example, if the issue title is `[TRANSLATION] Course CYP201 - FR`, use the same title for your PR (cf. \**A\**). In the description, mention the associated issue using its number, preceded by "Closes". This will automatically close the issue once the PR is merged (cf. \**B\**).  
+- If everything looks good, click the green "Create Pull Request" button (cf. \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -128,9 +128,9 @@ NB. It’s recommended to review in the code window, with the original content d
 - It's important to always check the original English (or French) version of the course/tutorial when proofreading. Feel free to make adjustements to enhance fluidity, but do not change the overall original meaning.
 - LLM tools may literally translate some words related to Bitcoin, like Lightning Network, that would become "Rete Fulmine" in Italian. In cases like this, it is advisable to use the original English word for better clarity, unless your language rules impose you to translate every singel word.
 - If you find quotes, make sure to do some research online to find the right translation in your language.
-- **DO NOT** translate the static words at the beginning of the text, which are used to describe its content: "name", "description", "objectives".
+- \**DO NOT\** translate the static words at the beginning of the text, which are used to describe its content: "name", "description", "objectives".
 - If you find "Plan ₿ Network" in the text, leave it in this original form. Do not translate the word "plan" or the word "network". Besides, do NOT use the article "The" when introducing Plan ₿ Network, and consider it as a brand. The same goes for "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", which should also be kept in the original form.
-- Pay attention to weird punctuation like `\*\*\` which might represent a bad rendering of the bold symbol **. Always check the original English text to see if a bold text is supposed to be there. You can find more information on the markdown language [here](https://www.markdownguide.org/basic-syntax/)
+- Pay attention to weird punctuation like `\*\*\` which might represent a bad rendering of the bold symbol \**. Always check the original English text to see if a bold text is supposed to be there. You can find more information on the markdown language [here](https://www.markdownguide.org/basic-syntax/)
 - Až dokončíte svou korekturu, můžete se vrátit k původnímu issue, které otevřel koordinátor, okomentovat "Korektura hotova" a vložit tam svůj odkaz na PR.
 
 ## 7. Wait for review
@@ -139,8 +139,8 @@ NB. It’s recommended to review in the code window, with the original content d
 
 ![REVIEW](assets/fr/12.webp)
 
-- Thank you very much for your contribution! After approval, a Plan ₿ Network team member will contact you to send your reward. **Payments are made exclusively via the Lightning Network**.
-- If you’d like to start again, return to step 2 and send a new message in the Telegram group to continue contributing to other content. Make sure to sync your fork before creating a new working branch. To do this, go to the homepage of your fork, select the main branch named `dev` (cf. **A**), then click on the "Sync fork" button (cf. **B**). If updates are available for your fork, an "Update branch" button will appear. Simply click it to perform the update.
+- Thank you very much for your contribution! After approval, a Plan ₿ Network team member will contact you to send your reward. \**Payments are made exclusively via the Lightning Network\**.
+- If you’d like to start again, return to step 2 and send a new message in the Telegram group to continue contributing to other content. Make sure to sync your fork before creating a new working branch. To do this, go to the homepage of your fork, select the main branch named `dev` (cf. \**A\**), then click on the "Sync fork" button (cf. \**B\**). If updates are available for your fork, an "Update branch" button will appear. Simply click it to perform the update.
 
 ![REVIEW](assets/fr/16.webp)
 

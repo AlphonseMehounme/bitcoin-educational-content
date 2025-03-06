@@ -59,16 +59,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Sisu läbivaatamine ja muutmine GitHubi kasutajaliidese kaudu
 
 
-- Probleem sisaldab kirjeldust (vt **A**) koos linkidega algsele sisule ja failile, mida saab vaadata.
-- Kui soovite läbivaatamise eest vastutada, siis jätke kommentaari küsimuse juurde (vt **B**), et näidata, et te tegelete sellega. See hoiab ära dubleerivad jõupingutused.
-- Sisu vaatamiseks klõpsake faili kõrval oleval lingil (vt **C**).
+- Probleem sisaldab kirjeldust (vt \**A\**) koos linkidega algsele sisule ja failile, mida saab vaadata.
+- Kui soovite läbivaatamise eest vastutada, siis jätke kommentaari küsimuse juurde (vt \**B\**), et näidata, et te tegelete sellega. See hoiab ära dubleerivad jõupingutused.
+- Sisu vaatamiseks klõpsake faili kõrval oleval lingil (vt \**C\**).
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Nüüd saate vaadata GitHubi liidesest faili vaadata.
-- Vasakpoolsel paneelil saate navigeerida oma haru (vt **A**) ja failide (vt **B**) vahel.
-- Klõpsake pliiatsi ikoonil, et alustada läbivaatamist (vt **C**).
+- Vasakpoolsel paneelil saate navigeerida oma haru (vt \**A\**) ja failide (vt \**B\**) vahel.
+- Klõpsake pliiatsi ikoonil, et alustada läbivaatamist (vt \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -78,7 +78,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Seejärel jõuate redaktori kasutajaliidesesse (vt **A**), kus näete faili teekonda ja vastavat haru (vt **B**) ning saate vahetada redigeerimise ja eelvaate režiimi vahel (vt **C**).
+- Seejärel jõuate redaktori kasutajaliidesesse (vt \**A\**), kus näete faili teekonda ja vastavat haru (vt \**B\**) ning saate vahetada redigeerimise ja eelvaate režiimi vahel (vt \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -94,9 +94,9 @@ NB. Soovitatav on vaadata läbi koodiaknas, kusjuures originaalsisu kuvatakse er
 ![REVIEW](assets/fr/07.webp)
 
 
-- Lisage muudatuste kohta kirjeldav sõnum (vt **A**).
-- Vajaduse korral lisage kirjeldusse rohkem konteksti (vt **B**).
-- Klõpsake nuppu "Muudatuste tegemine" (vt **C**).
+- Lisage muudatuste kohta kirjeldav sõnum (vt \**A\**).
+- Vajaduse korral lisage kirjeldusse rohkem konteksti (vt \**B\**).
+- Klõpsake nuppu "Muudatuste tegemine" (vt \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -118,7 +118,7 @@ NB. Soovitatav on vaadata läbi koodiaknas, kusjuures originaalsisu kuvatakse er
 ![REVIEW](assets/fr/14.webp)
 
 
-- Valige haru, mis sisaldab teie edusamme (vt **A**), leidke oma sisufail (vt **B**), seejärel klõpsake pliiatsi ikoonil, et jätkata ülevaatamist.
+- Valige haru, mis sisaldab teie edusamme (vt \**A\**), leidke oma sisufail (vt \**B\**), seejärel klõpsake pliiatsi ikoonil, et jätkata ülevaatamist.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -131,8 +131,8 @@ NB. Soovitatav on vaadata läbi koodiaknas, kusjuures originaalsisu kuvatakse er
 
 
 - Seejärel jõuate PR-lehele. Pull Request on taotlus esitada kaugrepositooriumi harus tehtud muudatused läbivaatamiseks ja võimalikuks ühendamiseks peaharusse.
-- Lisage oma PR-ile pealkiri ja lühikirjeldus. Pealkiri peaks vastama teemale, mille kallal te töötate. Näiteks kui teema pealkiri on `[TRANSLATION] Course CYP201 - FR`, kasutage oma PR-ile sama pealkirja (vrd. **A**). Kirjelduses mainige seotud teemat, kasutades selle numbrit, millele eelneb "Sulgeb". See sulgeb probleemi automaatselt, kui PR on ühendatud (vt **B**).
-- Kui kõik on korras, klõpsake rohelist nuppu "Create Pull Request" (vt **C**).
+- Lisage oma PR-ile pealkiri ja lühikirjeldus. Pealkiri peaks vastama teemale, mille kallal te töötate. Näiteks kui teema pealkiri on `[TRANSLATION] Course CYP201 - FR`, kasutage oma PR-ile sama pealkirja (vrd. \**A\**). Kirjelduses mainige seotud teemat, kasutades selle numbrit, millele eelneb "Sulgeb". See sulgeb probleemi automaatselt, kui PR on ühendatud (vt \**B\**).
+- Kui kõik on korras, klõpsake rohelist nuppu "Create Pull Request" (vt \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -144,7 +144,7 @@ NB. Soovitatav on vaadata läbi koodiaknas, kusjuures originaalsisu kuvatakse er
 - Kui leiate tsitaate, veenduge, et uuriksite veebis, et leida õige tõlge oma keeles.
 - ÄRGE tõlkige teksti alguses olevaid staatilisi sõnu, mida kasutatakse sisu kirjeldamiseks: "name", "description", "objectives".
 - Kui leiate tekstist "Plan ₿ Network", jätke see sellises originaalses vormis. Ärge tõlkige sõna "plan" ega sõna "network". Lisaks, ÄRGE kasutage artiklit, kui tutvustate Plan ₿ Network'i, ja käsitlege seda kaubamärgina. Sama kehtib "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL" kohta, mis peaksid samuti jääma originaalsesse vormi.
-- Pöörake tähelepanu kummalisele kirjavahemärgile nagu \*\*, mis võib tähendada halba rasvase sümboli ** renderdamist. Kontrollige alati originaali ingliskeelset teksti, et näha, kas seal peaks olema rasvane tekst. Lisainfot markdown-keele kohta leiate [siit](https://www.markdownguide.org/basic-syntax/).
+- Pöörake tähelepanu kummalisele kirjavahemärgile nagu `\*\*\`, mis võib tähendada halba rasvase sümboli ** renderdamist. Kontrollige alati originaali ingliskeelset teksti, et näha, kas seal peaks olema rasvane tekst. Lisainfot markdown-keele kohta leiate [siit](https://www.markdownguide.org/basic-syntax/).
 - Kui olete oma korrektuuri lõpetanud, saate naasta koordinaatori avatud algse probleemi juurde, kommenteerida "Proofreading done" ja sisestada sinna oma PR-link.
 
 ## 7. Oodake ülevaatamist
@@ -155,8 +155,8 @@ NB. Soovitatav on vaadata läbi koodiaknas, kusjuures originaalsisu kuvatakse er
 ![REVIEW](assets/fr/12.webp)
 
 
-- Suur tänu teie panuse eest! Pärast heakskiitmist võtab Plan ₿ Network'i meeskonnaliige teiega ühendust, et saata teie preemia. **Makseid tehakse ainult Lightning Networki** kaudu.
-- Kui soovid uuesti alustada, naase sammu 2 juurde ja saada Telegrami grupis uus sõnum, et jätkata panustamist muule sisule. Enne uue tööharu loomist sünkroniseerige kindlasti oma haru. Selleks minge oma haru kodulehele, valige peaharu nimega `dev` (vt **A**), seejärel klõpsake nupule "Sync fork" (vt **B**). Kui teie haru jaoks on saadaval uuendused, ilmub nupp "Update branch". Lihtsalt klõpsake sellel, et teostada uuendamine.
+- Suur tänu teie panuse eest! Pärast heakskiitmist võtab Plan ₿ Network'i meeskonnaliige teiega ühendust, et saata teie preemia. \**Makseid tehakse ainult Lightning Networki\** kaudu.
+- Kui soovid uuesti alustada, naase sammu 2 juurde ja saada Telegrami grupis uus sõnum, et jätkata panustamist muule sisule. Enne uue tööharu loomist sünkroniseerige kindlasti oma haru. Selleks minge oma haru kodulehele, valige peaharu nimega `dev` (vt \**A\**), seejärel klõpsake nupule "Sync fork" (vt \**B\**). Kui teie haru jaoks on saadaval uuendused, ilmub nupp "Update branch". Lihtsalt klõpsake sellel, et teostada uuendamine.
 
 ![REVIEW](assets/fr/16.webp)
 

@@ -59,16 +59,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Gjennomgå og rediger innholdet via GitHubs grensesnitt
 
 
-- Problemet inneholder en beskrivelse (jf. **A**) med lenker til det opprinnelige innholdet og filen som skal gjennomgås.
-- Hvis du ønsker å ta ansvar for gjennomgangen, kan du legge igjen en kommentar til saken (jf. **B**) for å indikere at du vil jobbe med den. Dette forhindrer dobbeltarbeid.
-- Klikk på lenken ved siden av filen som skal gjennomgås (jf. **C**) for å få tilgang til innholdet.
+- Problemet inneholder en beskrivelse (jf. \**A\**) med lenker til det opprinnelige innholdet og filen som skal gjennomgås.
+- Hvis du ønsker å ta ansvar for gjennomgangen, kan du legge igjen en kommentar til saken (jf. \**B\**) for å indikere at du vil jobbe med den. Dette forhindrer dobbeltarbeid.
+- Klikk på lenken ved siden av filen som skal gjennomgås (jf. \**C\**) for å få tilgang til innholdet.
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Du kan nå se GitHub-grensesnittet til filen som skal gjennomgås.
-- I venstre panel kan du navigere gjennom grenen (jf. **A**) og filene (jf. **B**).
-- Klikk på blyantikonet for å starte gjennomgangen (se **C**).
+- I venstre panel kan du navigere gjennom grenen (jf. \**A\**) og filene (jf. \**B\**).
+- Klikk på blyantikonet for å starte gjennomgangen (se \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -78,7 +78,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Deretter kommer du til redigeringsgrensesnittet (se **A**), der du kan se filstien og den tilhørende grenen (se **B**) og veksle mellom redigerings- og forhåndsvisningsmodus (se **C**).
+- Deretter kommer du til redigeringsgrensesnittet (se \**A\**), der du kan se filstien og den tilhørende grenen (se \**B\**) og veksle mellom redigerings- og forhåndsvisningsmodus (se \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -94,9 +94,9 @@ NB. Det anbefales å se gjennom i kodevinduet, med det opprinnelige innholdet vi
 ![REVIEW](assets/fr/07.webp)
 
 
-- Legg til en beskrivende melding for endringene dine (se **A**).
-- Legg til mer kontekst i beskrivelsen hvis det er nødvendig (jf. **B**).
-- Klikk på knappen "Foreslå endringer" (se **C**).
+- Legg til en beskrivende melding for endringene dine (se \**A\**).
+- Legg til mer kontekst i beskrivelsen hvis det er nødvendig (jf. \**B\**).
+- Klikk på knappen "Foreslå endringer" (se \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -118,7 +118,7 @@ NB. Det anbefales å se gjennom i kodevinduet, med det opprinnelige innholdet vi
 ![REVIEW](assets/fr/14.webp)
 
 
-- Velg grenen som inneholder fremdriften din (jf. **A**), finn innholdsfilen din (jf. **B**), og klikk deretter på blyantikonet for å fortsette gjennomgangen.
+- Velg grenen som inneholder fremdriften din (jf. \**A\**), finn innholdsfilen din (jf. \**B\**), og klikk deretter på blyantikonet for å fortsette gjennomgangen.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -131,8 +131,8 @@ NB. Det anbefales å se gjennom i kodevinduet, med det opprinnelige innholdet vi
 
 
 - Du kommer da til PR-siden. En Pull Request er en forespørsel om å sende inn endringer som er gjort på en gren av et eksternt depot for gjennomgang og mulig sammenslåing til hovedgrenen.
-- Legg til en tittel og en kort beskrivelse av PR-en din. Tittelen bør samsvare med utgaven du jobber med. Hvis tittelen på utgaven for eksempel er `[OVERSETTELSE] Kurs CYP201 - FR`, kan du bruke samme tittel på PR-en din (jf. **A**). I beskrivelsen nevner du det tilknyttede problemet ved hjelp av nummeret, etterfulgt av "Closes". Dette vil automatisk lukke problemet når PR-en er slått sammen (jf. **B**).
-- Hvis alt ser bra ut, klikker du på den grønne knappen "Create Pull Request" (jf. **C**).
+- Legg til en tittel og en kort beskrivelse av PR-en din. Tittelen bør samsvare med utgaven du jobber med. Hvis tittelen på utgaven for eksempel er `[OVERSETTELSE] Kurs CYP201 - FR`, kan du bruke samme tittel på PR-en din (jf. \**A\**). I beskrivelsen nevner du det tilknyttede problemet ved hjelp av nummeret, etterfulgt av "Closes". Dette vil automatisk lukke problemet når PR-en er slått sammen (jf. \**B\**).
+- Hvis alt ser bra ut, klikker du på den grønne knappen "Create Pull Request" (jf. \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -144,7 +144,7 @@ NB. Det anbefales å se gjennom i kodevinduet, med det opprinnelige innholdet vi
 - Om du finn sitat, sørg for å gjere litt research på nettet for å finne den rette oversetjinga på språket ditt.
 - IKKJE oversett dei statiske orda i starten av teksten, som blir brukt til å beskrive innhaldet: "name", "description", "objectives".
 - Om du finn "Plan ₿ Network" i teksten, lat det stå i denne originale forma. Ikkje oversett ordet "plan" eller ordet "network". I tillegg, IKKJE bruk artikkelen når du introduserer Plan ₿ Network, og betrakt det som eit merke. Det same gjeld for "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", som også bør haldast i originalform.
-- Ver merksam på rar interpunkjson som \*\*, som kan representere ei dårleg rendering av det fete symbolet **. Sjekk alltid den originale engelske teksten for å sjå om det skal vere ein fet tekst der. Du kan finne meir informasjon om markdown-språket [her](https://www.markdownguide.org/basic-syntax/).
+- Ver merksam på rar interpunkjson som `\*\*\`, som kan representere ei dårleg rendering av det fete symbolet **. Sjekk alltid den originale engelske teksten for å sjå om det skal vere ein fet tekst der. Du kan finne meir informasjon om markdown-språket [her](https://www.markdownguide.org/basic-syntax/).
 - Når du er ferdig med korrekturen, kan du gå tilbake til det første issue som vart opna av koordinatoren, kommentere med "Proofreading done" og sette inn PR-lenken din der.
 
 ## 7. Vent på vurdering
@@ -155,8 +155,8 @@ NB. Det anbefales å se gjennom i kodevinduet, med det opprinnelige innholdet vi
 ![REVIEW](assets/fr/12.webp)
 
 
-- Tusen takk for ditt bidrag! Etter godkjenning vil et medlem av Plan ₿ Network-teamet kontakte deg for å sende belønningen din. **Utbetalinger skjer utelukkende via Lightning Network**.
-- Hvis du vil begynne på nytt, kan du gå tilbake til trinn 2 og sende en ny melding i Telegram-gruppen for å fortsette å bidra til annet innhold. Sørg for å synkronisere gaffelen din før du oppretter en ny arbeidsgren. Dette gjør du ved å gå til hjemmesiden til gaffelen din, velge hovedgrenen `dev` (se **A**), og deretter klikke på knappen "Synkroniser gaffel" (se **B**). Hvis oppdateringer er tilgjengelige for din forgrening, vises en "Oppdater gren"-knapp. Bare klikk på den for å utføre oppdateringen.
+- Tusen takk for ditt bidrag! Etter godkjenning vil et medlem av Plan ₿ Network-teamet kontakte deg for å sende belønningen din. \**Utbetalinger skjer utelukkende via Lightning Network\**.
+- Hvis du vil begynne på nytt, kan du gå tilbake til trinn 2 og sende en ny melding i Telegram-gruppen for å fortsette å bidra til annet innhold. Sørg for å synkronisere gaffelen din før du oppretter en ny arbeidsgren. Dette gjør du ved å gå til hjemmesiden til gaffelen din, velge hovedgrenen `dev` (se \**A\**), og deretter klikke på knappen "Synkroniser gaffel" (se \**B\**). Hvis oppdateringer er tilgjengelige for din forgrening, vises en "Oppdater gren"-knapp. Bare klikk på den for å utføre oppdateringen.
 
 ![REVIEW](assets/fr/16.webp)
 

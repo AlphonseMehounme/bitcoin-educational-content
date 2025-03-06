@@ -59,16 +59,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Tarkastele ja muokkaa sisältöä GitHubin käyttöliittymän kautta
 
 
-- Kysymys sisältää kuvauksen (vrt. **A**), jossa on linkit alkuperäiseen sisältöön ja tarkistettavaan tiedostoon.
-- Jos haluat ottaa tarkastuksen vastuullesi, jätä kommentti asiaan (vrt. **B**) ilmoittaaksesi, että aiot työskennellä sen parissa. Näin vältytään päällekkäisiltä ponnisteluilta.
-- Napsauta tarkistettavan tiedoston vieressä olevaa linkkiä (vrt. **C**) päästäksesi sisältöön.
+- Kysymys sisältää kuvauksen (vrt. \**A\**), jossa on linkit alkuperäiseen sisältöön ja tarkistettavaan tiedostoon.
+- Jos haluat ottaa tarkastuksen vastuullesi, jätä kommentti asiaan (vrt. \**B\**) ilmoittaaksesi, että aiot työskennellä sen parissa. Näin vältytään päällekkäisiltä ponnisteluilta.
+- Napsauta tarkistettavan tiedoston vieressä olevaa linkkiä (vrt. \**C\**) päästäksesi sisältöön.
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Voit nyt tarkastella tarkistettavan tiedoston GitHub-käyttöliittymää.
-- Vasemmanpuoleisessa paneelissa voit selata haaraa (vrt. **A**) ja tiedostoja (vrt. **B**).
-- Aloita tarkistaminen napsauttamalla kynäkuvaketta (ks. **C**).
+- Vasemmanpuoleisessa paneelissa voit selata haaraa (vrt. \**A\**) ja tiedostoja (vrt. \**B\**).
+- Aloita tarkistaminen napsauttamalla kynäkuvaketta (ks. \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -78,7 +78,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Tämän jälkeen pääset editorin käyttöliittymään (vrt. **A**), jossa näet tiedostopolun ja vastaavan haaran (vrt. **B**) ja voit vaihtaa muokkaus- ja esikatselutilan välillä (vrt. **C**).
+- Tämän jälkeen pääset editorin käyttöliittymään (vrt. \**A\**), jossa näet tiedostopolun ja vastaavan haaran (vrt. \**B\**) ja voit vaihtaa muokkaus- ja esikatselutilan välillä (vrt. \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -94,9 +94,9 @@ HUOM. On suositeltavaa tarkistaa koodi-ikkunassa, jolloin alkuperäinen sisält�
 ![REVIEW](assets/fr/07.webp)
 
 
-- Lisää kuvaileva viesti muutoksistasi (vrt. **A**).
-- Lisää tarvittaessa lisää asiayhteyttä kuvaukseen (vrt. **B**).
-- Napsauta "Ehdota muutoksia" -painiketta (ks. **C**).
+- Lisää kuvaileva viesti muutoksistasi (vrt. \**A\**).
+- Lisää tarvittaessa lisää asiayhteyttä kuvaukseen (vrt. \**B\**).
+- Napsauta "Ehdota muutoksia" -painiketta (ks. \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -118,7 +118,7 @@ HUOM. On suositeltavaa tarkistaa koodi-ikkunassa, jolloin alkuperäinen sisält�
 ![REVIEW](assets/fr/14.webp)
 
 
-- Valitse haara, joka sisältää edistymisesi (vrt. **A**), etsi sisältötiedostosi (vrt. **B**) ja jatka tarkistusta napsauttamalla kynäkuvaketta.
+- Valitse haara, joka sisältää edistymisesi (vrt. \**A\**), etsi sisältötiedostosi (vrt. \**B\**) ja jatka tarkistusta napsauttamalla kynäkuvaketta.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -131,8 +131,8 @@ HUOM. On suositeltavaa tarkistaa koodi-ikkunassa, jolloin alkuperäinen sisält�
 
 
 - Tämän jälkeen pääset PR-sivulle. Pull Request on pyyntö lähettää etätietovaraston haaraan tehdyt muutokset tarkistettavaksi ja mahdollisesti yhdistettäväksi päähaaraan.
-- Lisää PR:ään otsikko ja lyhyt kuvaus. Otsikon tulisi vastata asiaa, jonka parissa työskentelet. Jos esimerkiksi numeron otsikko on `[KÄÄNTÖ] Kurssi CYP201 - FR`, käytä samaa otsikkoa PR:ssäsi (vrt. **A**). Mainitse kuvauksessa aiheeseen liittyvä kysymys käyttämällä sen numeroa, jota edeltää "Sulkeutuu". Tämä sulkee ongelman automaattisesti, kun PR on yhdistetty (vrt. **B**).
-- Jos kaikki näyttää hyvältä, napsauta vihreää "Create Pull Request" -painiketta (vrt. **C**).
+- Lisää PR:ään otsikko ja lyhyt kuvaus. Otsikon tulisi vastata asiaa, jonka parissa työskentelet. Jos esimerkiksi numeron otsikko on `[KÄÄNTÖ] Kurssi CYP201 - FR`, käytä samaa otsikkoa PR:ssäsi (vrt. \**A\**). Mainitse kuvauksessa aiheeseen liittyvä kysymys käyttämällä sen numeroa, jota edeltää "Sulkeutuu". Tämä sulkee ongelman automaattisesti, kun PR on yhdistetty (vrt. \**B\**).
+- Jos kaikki näyttää hyvältä, napsauta vihreää "Create Pull Request" -painiketta (vrt. \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -144,7 +144,7 @@ HUOM. On suositeltavaa tarkistaa koodi-ikkunassa, jolloin alkuperäinen sisält�
 - Jos löydät lainauksia, varmista, että teet tutkimusta verkossa löytääksesi oikean käännöksen omassa kielessäsi.
 - ÄLÄ käännä tekstin alussa olevia staattisia sanoja, joita käytetään sen sisällön kuvaamiseen: "name", "description", "objectives".
 - Jos löydät tekstistä "Plan ₿ Network", jätä se tähän alkuperäiseen muotoon. Älä käännä sanaa "plan" tai sanaa "network". Lisäksi ÄLÄ käytä artikkelia, kun esittelet Plan ₿ Networkia, ja pidä sitä brändinä. Sama pätee "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", jotka tulisi myös säilyttää alkuperäisessä muodossa.
-- Kiinnitä huomiota outoon välimerkkikäyttöön, kuten \*\*, joka saattaa edustaa huonoa rasvasymbolin ** renderointia. Tarkista aina alkuperäinen englanninkielinen teksti nähdäksesi, onko rasvatekstiä tarkoitus olla. Lisätietoja markdown-kielestä löydät [täältä](https://www.markdownguide.org/basic-syntax/).
+- Kiinnitä huomiota outoon välimerkkikäyttöön, kuten `\*\*\`, joka saattaa edustaa huonoa rasvasymbolin ** renderointia. Tarkista aina alkuperäinen englanninkielinen teksti nähdäksesi, onko rasvatekstiä tarkoitus olla. Lisätietoja markdown-kielestä löydät [täältä](https://www.markdownguide.org/basic-syntax/).
 - Kun olet saanut oikoluvun päätökseen, voit palata koordinaattorin avaamaan alkuperäiseen issueen, kommentoida "Proofreading done" ja liittää sinne PR-linkkisi.
 
 ## 7. Odota arviointia
@@ -155,8 +155,8 @@ HUOM. On suositeltavaa tarkistaa koodi-ikkunassa, jolloin alkuperäinen sisält�
 ![REVIEW](assets/fr/12.webp)
 
 
-- Kiitos paljon panoksestanne! Hyväksymisen jälkeen Plan ₿ Network -tiimin jäsen ottaa sinuun yhteyttä palkkiosi lähettämiseksi. **Maksut suoritetaan yksinomaan Lightning Networkin kautta**.
-- Jos haluat aloittaa alusta, palaa vaiheeseen 2 ja lähetä uusi viesti Telegram-ryhmässä jatkaaksesi osallistumista muuhun sisältöön. Muista synkronoida haarasi ennen uuden työhaaran luomista. Tee tämä menemällä haarasi etusivulle, valitsemalla päähaara nimeltä `dev` (vrt. **A**) ja napsauttamalla sitten "Synkronoi haarasi" -painiketta (vrt. **B**). Jos haaraasi on saatavilla päivityksiä, "Päivitä haara" -painike tulee näkyviin. Napsauta sitä suorittaaksesi päivityksen.
+- Kiitos paljon panoksestanne! Hyväksymisen jälkeen Plan ₿ Network -tiimin jäsen ottaa sinuun yhteyttä palkkiosi lähettämiseksi. \**Maksut suoritetaan yksinomaan Lightning Networkin kautta\**.
+- Jos haluat aloittaa alusta, palaa vaiheeseen 2 ja lähetä uusi viesti Telegram-ryhmässä jatkaaksesi osallistumista muuhun sisältöön. Muista synkronoida haarasi ennen uuden työhaaran luomista. Tee tämä menemällä haarasi etusivulle, valitsemalla päähaara nimeltä `dev` (vrt. \**A\**) ja napsauttamalla sitten "Synkronoi haarasi" -painiketta (vrt. \**B\**). Jos haaraasi on saatavilla päivityksiä, "Päivitä haara" -painike tulee näkyviin. Napsauta sitä suorittaaksesi päivityksen.
 
 ![REVIEW](assets/fr/16.webp)
 

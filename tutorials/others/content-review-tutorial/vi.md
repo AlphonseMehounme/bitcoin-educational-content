@@ -60,16 +60,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Xem lại và chỉnh sửa nội dung thông qua giao diện GitHub
 
 
-- Số báo này có phần mô tả (xem **A**) với các liên kết đến nội dung gốc và tệp để xem xét.
-- Nếu bạn muốn chịu trách nhiệm đánh giá, hãy để lại bình luận về vấn đề (xem **B**) để cho biết bạn sẽ xử lý vấn đề đó. Điều này ngăn ngừa các nỗ lực trùng lặp.
-- Nhấp vào liên kết bên cạnh tệp để xem lại (xem **C**) để truy cập nội dung.
+- Số báo này có phần mô tả (xem \**A\**) với các liên kết đến nội dung gốc và tệp để xem xét.
+- Nếu bạn muốn chịu trách nhiệm đánh giá, hãy để lại bình luận về vấn đề (xem \**B\**) để cho biết bạn sẽ xử lý vấn đề đó. Điều này ngăn ngừa các nỗ lực trùng lặp.
+- Nhấp vào liên kết bên cạnh tệp để xem lại (xem \**C\**) để truy cập nội dung.
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Bây giờ bạn có thể xem giao diện GitHub của tệp để đánh giá.
-- Bảng bên trái cho phép bạn điều hướng qua nhánh (so sánh **A**) và các tệp (so sánh **B**).
-- Nhấp vào biểu tượng bút chì để bắt đầu xem lại (xem **C**).
+- Bảng bên trái cho phép bạn điều hướng qua nhánh (so sánh \**A\**) và các tệp (so sánh \**B\**).
+- Nhấp vào biểu tượng bút chì để bắt đầu xem lại (xem \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -79,7 +79,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Sau đó, bạn sẽ đến giao diện Trình chỉnh sửa (so sánh **A**), nơi bạn có thể thấy đường dẫn tệp và nhánh tương ứng (so sánh **B**) và chuyển đổi giữa chế độ chỉnh sửa và chế độ xem trước (so sánh **C**).
+- Sau đó, bạn sẽ đến giao diện Trình chỉnh sửa (so sánh \**A\**), nơi bạn có thể thấy đường dẫn tệp và nhánh tương ứng (so sánh \**B\**) và chuyển đổi giữa chế độ chỉnh sửa và chế độ xem trước (so sánh \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -95,9 +95,9 @@ NB. Bạn nên xem lại trong cửa sổ mã, với nội dung gốc được h
 ![REVIEW](assets/fr/07.webp)
 
 
-- Thêm thông điệp mô tả cho những thay đổi của bạn (xem **A**).
-- Thêm ngữ cảnh vào phần mô tả nếu cần thiết (xem **B**).
-- Nhấp vào nút "Đề xuất thay đổi" (so sánh **C**).
+- Thêm thông điệp mô tả cho những thay đổi của bạn (xem \**A\**).
+- Thêm ngữ cảnh vào phần mô tả nếu cần thiết (xem \**B\**).
+- Nhấp vào nút "Đề xuất thay đổi" (so sánh \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -119,7 +119,7 @@ NB. Bạn nên xem lại trong cửa sổ mã, với nội dung gốc được h
 ![REVIEW](assets/fr/14.webp)
 
 
-- Chọn nhánh chứa tiến trình của bạn (so sánh **A**), tìm tệp nội dung của bạn (so sánh **B**), sau đó nhấp vào biểu tượng bút chì để tiếp tục xem lại.
+- Chọn nhánh chứa tiến trình của bạn (so sánh \**A\**), tìm tệp nội dung của bạn (so sánh \**B\**), sau đó nhấp vào biểu tượng bút chì để tiếp tục xem lại.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -132,8 +132,8 @@ NB. Bạn nên xem lại trong cửa sổ mã, với nội dung gốc được h
 
 
 - Sau đó, bạn sẽ đến trang PR. Yêu cầu kéo là yêu cầu gửi các thay đổi được thực hiện trên một nhánh của kho lưu trữ từ xa để xem xét và có thể hợp nhất vào nhánh chính.
-- Thêm tiêu đề và mô tả ngắn vào PR của bạn. Tiêu đề phải khớp với vấn đề bạn đang giải quyết. Ví dụ, nếu tiêu đề vấn đề là `[TRANSLATION] Course CYP201 - FR`, hãy sử dụng cùng tiêu đề cho PR của bạn (so sánh **A**). Trong phần mô tả, hãy đề cập đến vấn đề liên quan bằng cách sử dụng số của nó, bắt đầu bằng "Closes". Thao tác này sẽ tự động đóng vấn đề sau khi PR được hợp nhất (so sánh **B**).
-- Nếu mọi thứ ổn, hãy nhấp vào nút màu xanh lá cây "Tạo yêu cầu kéo" (so sánh **C**).
+- Thêm tiêu đề và mô tả ngắn vào PR của bạn. Tiêu đề phải khớp với vấn đề bạn đang giải quyết. Ví dụ, nếu tiêu đề vấn đề là `[TRANSLATION] Course CYP201 - FR`, hãy sử dụng cùng tiêu đề cho PR của bạn (so sánh \**A\**). Trong phần mô tả, hãy đề cập đến vấn đề liên quan bằng cách sử dụng số của nó, bắt đầu bằng "Closes". Thao tác này sẽ tự động đóng vấn đề sau khi PR được hợp nhất (so sánh \**B\**).
+- Nếu mọi thứ ổn, hãy nhấp vào nút màu xanh lá cây "Tạo yêu cầu kéo" (so sánh \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -145,7 +145,7 @@ NB. Bạn nên xem lại trong cửa sổ mã, với nội dung gốc được h
 - Nếu bạn tìm thấy các trích dẫn, hãy đảm bảo thực hiện một số nghiên cứu trực tuyến để tìm ra bản dịch chính xác trong ngôn ngữ của bạn.
 - KHÔNG dịch các từ tĩnh ở đầu văn bản, được sử dụng để mô tả nội dung của nó: "name", "description", "objectives".
 - Nếu bạn tìm thấy "Plan ₿ Network" trong văn bản, hãy để nguyên dạng gốc này. Đừng dịch từ "plan" hoặc từ "network". Hơn nữa, ĐỪNG sử dụng mạo từ khi giới thiệu Plan ₿ Network, và coi đó như một thương hiệu. Điều tương tự cũng áp dụng cho "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", cũng nên được giữ nguyên dạng gốc.
-- Chú ý đến dấu câu kỳ lạ như \*\*, có thể đại diện cho việc hiển thị kém của ký hiệu in đậm **. Luôn kiểm tra văn bản gốc bằng tiếng Anh để xem liệu có nên có văn bản in đậm ở đó hay không. Bạn có thể tìm thêm thông tin về ngôn ngữ markdown [tại đây](https://www.markdownguide.org/basic-syntax/).
+- Chú ý đến dấu câu kỳ lạ như `\*\*\`, có thể đại diện cho việc hiển thị kém của ký hiệu in đậm **. Luôn kiểm tra văn bản gốc bằng tiếng Anh để xem liệu có nên có văn bản in đậm ở đó hay không. Bạn có thể tìm thêm thông tin về ngôn ngữ markdown [tại đây](https://www.markdownguide.org/basic-syntax/).
 - Khi bạn hoàn thành việc hiệu đính, bạn có thể quay lại vấn đề ban đầu được mở bởi người điều phối, bình luận với "Proofreading done" và chèn liên kết PR của bạn vào đó.
 
 ## 7. Chờ đánh giá
@@ -156,8 +156,8 @@ NB. Bạn nên xem lại trong cửa sổ mã, với nội dung gốc được h
 ![REVIEW](assets/fr/12.webp)
 
 
-- Cảm ơn bạn rất nhiều vì sự đóng góp của bạn! Sau khi được chấp thuận, một thành viên nhóm Plan ₿ Network sẽ liên hệ với bạn để gửi phần thưởng. **Thanh toán chỉ được thực hiện thông qua Lightning Network**.
-- Nếu bạn muốn bắt đầu lại, hãy quay lại bước 2 và gửi tin nhắn mới trong nhóm Telegram để tiếp tục đóng góp cho nội dung khác. Đảm bảo đồng bộ fork của bạn trước khi tạo nhánh làm việc mới. Để thực hiện việc này, hãy vào trang chủ của fork, chọn nhánh chính có tên `dev` (so sánh **A**), sau đó nhấp vào nút "Sync fork" (so sánh **B**). Nếu có bản cập nhật cho fork của bạn, nút "Update branch" sẽ xuất hiện. Chỉ cần nhấp vào đó để thực hiện cập nhật.
+- Cảm ơn bạn rất nhiều vì sự đóng góp của bạn! Sau khi được chấp thuận, một thành viên nhóm Plan ₿ Network sẽ liên hệ với bạn để gửi phần thưởng. \**Thanh toán chỉ được thực hiện thông qua Lightning Network\**.
+- Nếu bạn muốn bắt đầu lại, hãy quay lại bước 2 và gửi tin nhắn mới trong nhóm Telegram để tiếp tục đóng góp cho nội dung khác. Đảm bảo đồng bộ fork của bạn trước khi tạo nhánh làm việc mới. Để thực hiện việc này, hãy vào trang chủ của fork, chọn nhánh chính có tên `dev` (so sánh \**A\**), sau đó nhấp vào nút "Sync fork" (so sánh \**B\**). Nếu có bản cập nhật cho fork của bạn, nút "Update branch" sẽ xuất hiện. Chỉ cần nhấp vào đó để thực hiện cập nhật.
 
 ![REVIEW](assets/fr/16.webp)
 

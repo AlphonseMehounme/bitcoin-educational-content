@@ -59,16 +59,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Revisar y editar el contenido a través de la interfaz de GitHub
 
 
-- La emisión contiene una descripción (cf. **A**) con enlaces al contenido original y al archivo que hay que revisar.
-- Si desea encargarse de la revisión, deje un comentario en el asunto (cf. **B**) para indicar que trabajará en él. Así se evita la duplicación de esfuerzos.
-- Haga clic en el enlace situado junto al archivo que desea revisar (cf. **C**) para acceder al contenido.
+- La emisión contiene una descripción (cf. \**A\**) con enlaces al contenido original y al archivo que hay que revisar.
+- Si desea encargarse de la revisión, deje un comentario en el asunto (cf. \**B\**) para indicar que trabajará en él. Así se evita la duplicación de esfuerzos.
+- Haga clic en el enlace situado junto al archivo que desea revisar (cf. \**C\**) para acceder al contenido.
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Ahora puede ver la interfaz de GitHub del archivo que desea revisar.
-- El panel izquierdo le permite navegar por su rama (cf. **A**) y sus ficheros (cf. **B**).
-- Haga clic en el icono del lápiz para iniciar la revisión (cf. **C**).
+- El panel izquierdo le permite navegar por su rama (cf. \**A\**) y sus ficheros (cf. \**B\**).
+- Haga clic en el icono del lápiz para iniciar la revisión (cf. \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -78,7 +78,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Llegará entonces a la interfaz del Editor (cf. **A**), donde podrá ver la ruta del archivo y la rama correspondiente (cf. **B**) y cambiar entre los modos de edición y previsualización (cf. **C**).
+- Llegará entonces a la interfaz del Editor (cf. \**A\**), donde podrá ver la ruta del archivo y la rama correspondiente (cf. \**B\**) y cambiar entre los modos de edición y previsualización (cf. \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -94,9 +94,9 @@ NB. Se recomienda revisar en la ventana de código, mostrando el contenido origi
 ![REVIEW](assets/fr/07.webp)
 
 
-- Añada un mensaje descriptivo para sus cambios (cf. **A**).
-- Añada más contexto en la descripción si es necesario (cf. **B**).
-- Haga clic en el botón "Proponer cambios" (cf. **C**).
+- Añada un mensaje descriptivo para sus cambios (cf. \**A\**).
+- Añada más contexto en la descripción si es necesario (cf. \**B\**).
+- Haga clic en el botón "Proponer cambios" (cf. \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -118,7 +118,7 @@ NB. Se recomienda revisar en la ventana de código, mostrando el contenido origi
 ![REVIEW](assets/fr/14.webp)
 
 
-- Seleccione la rama que contiene su progreso (cf. **A**), localice su archivo de contenido (cf. **B**) y haga clic en el icono del lápiz para continuar la revisión.
+- Seleccione la rama que contiene su progreso (cf. \**A\**), localice su archivo de contenido (cf. \**B\**) y haga clic en el icono del lápiz para continuar la revisión.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -131,8 +131,8 @@ NB. Se recomienda revisar en la ventana de código, mostrando el contenido origi
 
 
 - Entonces llegará a la página PR. Una Pull Request es una solicitud para enviar cambios realizados en una rama de un repositorio remoto para su revisión y posible fusión en la rama principal.
-- Añade un título y una breve descripción a tu RP. El título debe coincidir con el tema en el que está trabajando. Por ejemplo, si el título del número es `[TRADUCCIÓN] Curso CYP201 - FR`, utilice el mismo título para su RP (cf. **A**). En la descripción, mencione la cuestión asociada utilizando su número, precedido de "Cierra". Esto cerrará automáticamente la incidencia una vez que se haya fusionado el PR (cf. **B**).
-- Si todo parece correcto, haga clic en el botón verde "Create Pull Request" (cf. **C**).
+- Añade un título y una breve descripción a tu RP. El título debe coincidir con el tema en el que está trabajando. Por ejemplo, si el título del número es `[TRADUCCIÓN] Curso CYP201 - FR`, utilice el mismo título para su RP (cf. \**A\**). En la descripción, mencione la cuestión asociada utilizando su número, precedido de "Cierra". Esto cerrará automáticamente la incidencia una vez que se haya fusionado el PR (cf. \**B\**).
+- Si todo parece correcto, haga clic en el botón verde "Create Pull Request" (cf. \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -144,7 +144,7 @@ NB. Se recomienda revisar en la ventana de código, mostrando el contenido origi
 - Si encuentras citas, asegúrate de investigar en línea para encontrar la traducción correcta en tu idioma.
 - NO traduzcas las palabras estáticas al principio del texto, que se utilizan para describir su contenido: "name", "description", "objectives".
 - Si encuentras "Plan ₿ Network" en el texto, déjalo en esta forma original. No traduzcas la palabra "plan" ni la palabra "network". Además, NO utilices el artículo al presentar Plan ₿ Network, y considérelo como una marca. Lo mismo se aplica a "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", que también deben mantenerse en la forma original.
-- Presta atención a la puntuación extraña como \*\*, que podría representar una mala representación del símbolo de negrita **. Siempre verifica el texto original en inglés para ver si se supone que debe haber un texto en negrita. Puedes encontrar más información sobre el lenguaje markdown [aquí](https://www.markdownguide.org/basic-syntax/).
+- Presta atención a la puntuación extraña como `\*\*\`, que podría representar una mala representación del símbolo de negrita **. Siempre verifica el texto original en inglés para ver si se supone que debe haber un texto en negrita. Puedes encontrar más información sobre el lenguaje markdown [aquí](https://www.markdownguide.org/basic-syntax/).
 - Cuando termines tu corrección, puedes volver al issue inicial abierto por el coordinador, comentar con "Proofreading done" e insertar allí tu enlace PR.
 
 ## 7. Espera la revisión
@@ -155,8 +155,8 @@ NB. Se recomienda revisar en la ventana de código, mostrando el contenido origi
 ![REVIEW](assets/fr/12.webp)
 
 
-- ¡Muchas gracias por tu contribución! Tras la aprobación, un miembro del equipo de Plan ₿ Network se pondrá en contacto contigo para enviarte tu recompensa. **Los pagos se realizan exclusivamente a través de Lightning Network**.
-- Si quieres empezar de nuevo, vuelve al paso 2 y envía un nuevo mensaje en el grupo de Telegram para seguir contribuyendo a otros contenidos. Asegúrate de sincronizar tu bifurcación antes de crear una nueva rama de trabajo. Para ello, ve a la página de inicio de tu bifurcación, selecciona la rama principal llamada `dev` (cf. **A**), y luego haz clic en el botón "Sync fork" (cf. **B**). Si hay actualizaciones disponibles para su bifurcación, aparecerá un botón "Actualizar rama". Simplemente haga clic en él para realizar la actualización.
+- ¡Muchas gracias por tu contribución! Tras la aprobación, un miembro del equipo de Plan ₿ Network se pondrá en contacto contigo para enviarte tu recompensa. \**Los pagos se realizan exclusivamente a través de Lightning Network\**.
+- Si quieres empezar de nuevo, vuelve al paso 2 y envía un nuevo mensaje en el grupo de Telegram para seguir contribuyendo a otros contenidos. Asegúrate de sincronizar tu bifurcación antes de crear una nueva rama de trabajo. Para ello, ve a la página de inicio de tu bifurcación, selecciona la rama principal llamada `dev` (cf. \**A\**), y luego haz clic en el botón "Sync fork" (cf. \**B\**). Si hay actualizaciones disponibles para su bifurcación, aparecerá un botón "Actualizar rama". Simplemente haga clic en él para realizar la actualización.
 
 ![REVIEW](assets/fr/16.webp)
 

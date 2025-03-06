@@ -59,16 +59,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Prohlížení a úpravy obsahu prostřednictvím rozhraní GitHubu
 
 
-- Vydání obsahuje popis (viz **A**) s odkazy na původní obsah a soubor k přezkoumání.
-- Pokud chcete převzít kontrolu, zanechte k danému problému komentář (viz **B**) a uveďte, že na něm budete pracovat. Předejdete tak duplicitnímu úsilí.
-- Kliknutím na odkaz vedle souboru k prohlížení (viz **C**) získáte přístup k obsahu.
+- Vydání obsahuje popis (viz \**A\**) s odkazy na původní obsah a soubor k přezkoumání.
+- Pokud chcete převzít kontrolu, zanechte k danému problému komentář (viz \**B\**) a uveďte, že na něm budete pracovat. Předejdete tak duplicitnímu úsilí.
+- Kliknutím na odkaz vedle souboru k prohlížení (viz \**C\**) získáte přístup k obsahu.
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Nyní můžete zobrazit rozhraní GitHubu souboru, který chcete zkontrolovat.
-- Levý panel umožňuje procházet větve (viz **A**) a soubory (viz **B**).
-- Kliknutím na ikonu tužky zahájíte prohlížení (viz **C**).
+- Levý panel umožňuje procházet větve (viz \**A\**) a soubory (viz \**B\**).
+- Kliknutím na ikonu tužky zahájíte prohlížení (viz \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -78,7 +78,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Poté se dostanete do rozhraní Editoru (viz **A**), kde můžete zobrazit cestu k souboru a odpovídající větev (viz **B**) a přepínat mezi režimy úprav a náhledu (viz **C**).
+- Poté se dostanete do rozhraní Editoru (viz \**A\**), kde můžete zobrazit cestu k souboru a odpovídající větev (viz \**B\**) a přepínat mezi režimy úprav a náhledu (viz \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -94,9 +94,9 @@ POZN. Doporučujeme prohlížet v okně kódu, přičemž původní obsah se zob
 ![REVIEW](assets/fr/07.webp)
 
 
-- Přidejte popisnou zprávu pro své změny (viz **A**).
-- V případě potřeby doplňte do popisu další souvislosti (viz **B**).
-- Klikněte na tlačítko "Navrhnout změny" (viz **C**).
+- Přidejte popisnou zprávu pro své změny (viz \**A\**).
+- V případě potřeby doplňte do popisu další souvislosti (viz \**B\**).
+- Klikněte na tlačítko "Navrhnout změny" (viz \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -118,7 +118,7 @@ POZN. Doporučujeme prohlížet v okně kódu, přičemž původní obsah se zob
 ![REVIEW](assets/fr/14.webp)
 
 
-- Vyberte větev obsahující váš postup (viz **A**), vyhledejte soubor s obsahem (viz **B**) a pokračujte v prohlížení kliknutím na ikonu tužky.
+- Vyberte větev obsahující váš postup (viz \**A\**), vyhledejte soubor s obsahem (viz \**B\**) a pokračujte v prohlížení kliknutím na ikonu tužky.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -131,8 +131,8 @@ POZN. Doporučujeme prohlížet v okně kódu, přičemž původní obsah se zob
 
 
 - Poté se dostanete na stránku PR. Žádost o vytažení je žádost o odeslání změn provedených ve větvi vzdáleného úložiště ke kontrole a případnému sloučení do hlavní větve.
-- Přidejte k PR název a krátký popis. Název by měl odpovídat tématu, na kterém pracujete. Například pokud je název čísla `[PŘEKLAD] Kurz CYP201 - FR`, použijte stejný název pro svou PR (viz **A**). V popisu uveďte související vydání pomocí jeho čísla, před kterým bude uvedeno "Uzavírá". Tím se problém po sloučení PR automaticky uzavře (viz **B**).
-- Pokud vše vypadá dobře, klikněte na zelené tlačítko "Create Pull Request" (viz **C**).
+- Přidejte k PR název a krátký popis. Název by měl odpovídat tématu, na kterém pracujete. Například pokud je název čísla `[PŘEKLAD] Kurz CYP201 - FR`, použijte stejný název pro svou PR (viz \**A\**). V popisu uveďte související vydání pomocí jeho čísla, před kterým bude uvedeno "Uzavírá". Tím se problém po sloučení PR automaticky uzavře (viz \**B\**).
+- Pokud vše vypadá dobře, klikněte na zelené tlačítko "Create Pull Request" (viz \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -144,7 +144,7 @@ POZN. Doporučujeme prohlížet v okně kódu, přičemž původní obsah se zob
 - Pokud narazíte na citace, ujistěte se, že provedete nějaký výzkum online, abyste našli správný překlad ve svém jazyce.
 - NEPŘEKLÁDEJTE statická slova na začátku textu, která se používají k popisu jeho obsahu: "name", "description", "objectives".
 - Pokud v textu najdete "Plan ₿ Network", nechte to v této původní podobě. Nepřekládejte slovo "plan" ani slovo "network". Kromě toho NEPOUŽÍVEJTE článek, když představujete Plan ₿ Network, a považujte to za značku. Totéž platí pro "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", které by měly být také zachovány v původní podobě.
-- Věnujte pozornost podivné interpunkci, jako je \*\*, která může představovat špatné zobrazení symbolu pro tučný text **. Vždy zkontrolujte původní anglický text, abyste zjistili, zda tam má být tučný text. Další informace o jazyce markdown naleznete [zde](https://www.markdownguide.org/basic-syntax/).
+- Věnujte pozornost podivné interpunkci, jako je `\*\*\`, která může představovat špatné zobrazení symbolu pro tučný text **. Vždy zkontrolujte původní anglický text, abyste zjistili, zda tam má být tučný text. Další informace o jazyce markdown naleznete [zde](https://www.markdownguide.org/basic-syntax/).
 - Až dokončíte svou korekturu, můžete se vrátit k původnímu issue, které otevřel koordinátor, okomentovat "Proofreading done" a vložit tam svůj odkaz na PR.
 
 ## 7. Počkejte na recenzi
@@ -154,8 +154,8 @@ POZN. Doporučujeme prohlížet v okně kódu, přičemž původní obsah se zob
 ![REVIEW](assets/fr/12.webp)
 
 
-- Děkujeme vám za váš příspěvek! Po schválení vás bude kontaktovat člen týmu Plan ₿ Network a zašle vám odměnu. **Platby probíhají výhradně prostřednictvím sítě Lightning Network**.
-- Pokud chcete začít znovu, vraťte se ke kroku 2 a pošlete novou zprávu do skupiny Telegram, abyste mohli pokračovat v přispívání k dalšímu obsahu. Před vytvořením nové pracovní větve nezapomeňte synchronizovat svůj fork. To provedete tak, že přejdete na domovskou stránku své vidlice, vyberete hlavní větev s názvem `dev` (viz **A**) a kliknete na tlačítko "Sync fork" (viz **B**). Pokud jsou pro vaši fork k dispozici aktualizace, zobrazí se tlačítko "Aktualizovat větev". Kliknutím na něj jednoduše proveďte aktualizaci.
+- Děkujeme vám za váš příspěvek! Po schválení vás bude kontaktovat člen týmu Plan ₿ Network a zašle vám odměnu. \**Platby probíhají výhradně prostřednictvím sítě Lightning Network\**.
+- Pokud chcete začít znovu, vraťte se ke kroku 2 a pošlete novou zprávu do skupiny Telegram, abyste mohli pokračovat v přispívání k dalšímu obsahu. Před vytvořením nové pracovní větve nezapomeňte synchronizovat svůj fork. To provedete tak, že přejdete na domovskou stránku své vidlice, vyberete hlavní větev s názvem `dev` (viz \**A\**) a kliknete na tlačítko "Sync fork" (viz \**B\**). Pokud jsou pro vaši fork k dispozici aktualizace, zobrazí se tlačítko "Aktualizovat větev". Kliknutím na něj jednoduše proveďte aktualizaci.
 
 ![REVIEW](assets/fr/16.webp)
 

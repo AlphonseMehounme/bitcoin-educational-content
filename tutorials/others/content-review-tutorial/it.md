@@ -57,16 +57,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Rivedere e modificare il contenuto tramite l'interfaccia di GitHub
 
 
-- Il problema contiene una descrizione (cfr. **A**) con link al contenuto originale e al file da revisionare.
-- Se volete occuparvi della revisione, lasciate un commento sul problema (cfr. **B**) per indicare che ve ne occuperete. In questo modo si evita di duplicare gli sforzi.
-- Fare clic sul link accanto al file da esaminare (cfr. **C**) per accedere al contenuto.
+- Il problema contiene una descrizione (cfr. \**A\**) con link al contenuto originale e al file da revisionare.
+- Se volete occuparvi della revisione, lasciate un commento sul problema (cfr. \**B\**) per indicare che ve ne occuperete. In questo modo si evita di duplicare gli sforzi.
+- Fare clic sul link accanto al file da esaminare (cfr. \**C\**) per accedere al contenuto.
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Ora è possibile visualizzare l'interfaccia GitHub del file da esaminare.
-- Il pannello di sinistra consente di navigare tra i rami (cfr. **A**) e i file (cfr. **B**).
-- Fare clic sull'icona della matita per avviare la revisione (cfr. **C**).
+- Il pannello di sinistra consente di navigare tra i rami (cfr. \**A\**) e i file (cfr. \**B\**).
+- Fare clic sull'icona della matita per avviare la revisione (cfr. \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -76,7 +76,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Si arriva quindi all'interfaccia dell'editor (cfr. **A**), dove è possibile vedere il percorso del file e il ramo corrispondente (cfr. **B**) e passare dalla modalità di modifica a quella di anteprima (cfr. **C**).
+- Si arriva quindi all'interfaccia dell'editor (cfr. \**A\**), dove è possibile vedere il percorso del file e il ramo corrispondente (cfr. \**B\**) e passare dalla modalità di modifica a quella di anteprima (cfr. \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -92,9 +92,9 @@ NB. Si consiglia di effettuare la revisione nella finestra del codice, con il co
 ![REVIEW](assets/fr/07.webp)
 
 
-- Aggiungere un messaggio descrittivo per le modifiche (cfr. **A**).
-- Se necessario, aggiungere ulteriore contesto nella descrizione (cfr. **B**).
-- Fare clic sul pulsante "Proporre modifiche" (cfr. **C**).
+- Aggiungere un messaggio descrittivo per le modifiche (cfr. \**A\**).
+- Se necessario, aggiungere ulteriore contesto nella descrizione (cfr. \**B\**).
+- Fare clic sul pulsante "Proporre modifiche" (cfr. \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -116,7 +116,7 @@ NB. Si consiglia di effettuare la revisione nella finestra del codice, con il co
 ![REVIEW](assets/fr/14.webp)
 
 
-- Selezionate il ramo che contiene i vostri progressi (cfr. **A**), individuate il vostro file di contenuto (cfr. **B**), quindi fate clic sull'icona della matita per continuare la revisione.
+- Selezionate il ramo che contiene i vostri progressi (cfr. \**A\**), individuate il vostro file di contenuto (cfr. \**B\**), quindi fate clic sull'icona della matita per continuare la revisione.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -129,8 +129,8 @@ NB. Si consiglia di effettuare la revisione nella finestra del codice, con il co
 
 
 - Si arriva quindi alla pagina PR. Una richiesta di pull è una richiesta di invio di modifiche apportate a un ramo di un repository remoto per la revisione e l'eventuale fusione nel ramo principale.
-- Aggiungete un titolo e una breve descrizione alla vostra PR. Il titolo deve corrispondere al tema su cui si sta lavorando. Ad esempio, se il titolo del numero è `[TRANSLATION] Course CYP201 - FR`, usate lo stesso titolo per la vostra PR (cfr. **A**). Nella descrizione, menzionate il problema associato usando il suo numero, preceduto da "Chiude". Questo chiuderà automaticamente il problema una volta che la PR sarà unita (cfr. **B**).
-- Se tutto sembra a posto, fare clic sul pulsante verde "Create Pull Request" (cfr. **C**).
+- Aggiungete un titolo e una breve descrizione alla vostra PR. Il titolo deve corrispondere al tema su cui si sta lavorando. Ad esempio, se il titolo del numero è `[TRANSLATION] Course CYP201 - FR`, usate lo stesso titolo per la vostra PR (cfr. \**A\**). Nella descrizione, menzionate il problema associato usando il suo numero, preceduto da "Chiude". Questo chiuderà automaticamente il problema una volta che la PR sarà unita (cfr. \**B\**).
+- Se tutto sembra a posto, fare clic sul pulsante verde "Create Pull Request" (cfr. \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -142,7 +142,7 @@ NB. Si consiglia di effettuare la revisione nella finestra del codice, con il co
 - Se trovi citazioni, assicurati di fare delle ricerche online per trovare la traduzione corretta nella tua lingua.
 - NON tradurre le parole statiche all'inizio del testo, che vengono utilizzate per descrivere il suo contenuto: "name", "description", "objectives".
 - Se trovi "Plan ₿ Network" nel testo, lascialo in questa forma originale. Non tradurre la parola "plan" o la parola "network". Inoltre, NON utilizzare l'articolo "IL" quando presenti Plan ₿ Network, e consideralo come un marchio. Lo stesso vale per "B-CERT", "BIZ SCHOOL", "TECH SCHOOL", che dovrebbero essere mantenuti anche nella forma originale.
-- Fai attenzione a punteggiatura strana come \*\*, che potrebbe rappresentare una cattiva resa del simbolo in grassetto **. Controlla sempre il testo originale in inglese per vedere se è previsto un testo in grassetto. Puoi trovare ulteriori informazioni sul linguaggio markdown [qui](https://www.markdownguide.org/basic-syntax/).
+- Fai attenzione a punteggiatura strana come `\*\*\`, che potrebbe rappresentare una cattiva resa del simbolo in grassetto **. Controlla sempre il testo originale in inglese per vedere se è previsto un testo in grassetto. Puoi trovare ulteriori informazioni sul linguaggio markdown [qui](https://www.markdownguide.org/basic-syntax/).
 - Quando hai finito la tua revisione, puoi tornare alla issue iniziale aperta dal coordinatore, commentare con "Proofreading done" e inserire il link della tua PR.
 
 7. Attendere la revisione degli admin
@@ -153,8 +153,8 @@ NB. Si consiglia di effettuare la revisione nella finestra del codice, con il co
 ![REVIEW](assets/fr/12.webp)
 
 
-- Grazie mille per il vostro contributo! Dopo l'approvazione, un membro del team di Plan ₿ Network vi contatterà per inviare la vostra ricompensa. **I pagamenti vengono effettuati esclusivamente tramite la rete Lightning**.
-- Se volete ricominciare, tornate al punto 2 e inviate un nuovo messaggio nel gruppo Telegram per continuare a contribuire ad altri contenuti. Assicuratevi di sincronizzare il vostro fork prima di creare un nuovo ramo di lavoro. Per farlo, andate nella homepage del vostro fork, selezionate il ramo principale chiamato `dev` (cfr. **A**), quindi fate clic sul pulsante "Sync fork" (cfr. **B**). Se sono disponibili aggiornamenti per il vostro fork, apparirà il pulsante "Update branch". È sufficiente fare clic su di esso per eseguire l'aggiornamento.
+- Grazie mille per il vostro contributo! Dopo l'approvazione, un membro del team di Plan ₿ Network vi contatterà per inviare la vostra ricompensa. \**I pagamenti vengono effettuati esclusivamente tramite la rete Lightning\**.
+- Se volete ricominciare, tornate al punto 2 e inviate un nuovo messaggio nel gruppo Telegram per continuare a contribuire ad altri contenuti. Assicuratevi di sincronizzare il vostro fork prima di creare un nuovo ramo di lavoro. Per farlo, andate nella homepage del vostro fork, selezionate il ramo principale chiamato `dev` (cfr. \**A\**), quindi fate clic sul pulsante "Sync fork" (cfr. \**B\**). Se sono disponibili aggiornamenti per il vostro fork, apparirà il pulsante "Update branch". È sufficiente fare clic su di esso per eseguire l'aggiornamento.
 
 ![REVIEW](assets/fr/16.webp)
 

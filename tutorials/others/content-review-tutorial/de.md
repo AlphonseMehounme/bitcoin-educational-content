@@ -59,16 +59,16 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ## 3. Überprüfen und bearbeiten Sie den Inhalt über die Schnittstelle von GitHub
 
 
-- Die Ausgabe enthält eine Beschreibung (vgl. **A**) mit Links zum ursprünglichen Inhalt und der zu prüfenden Datei.
-- Wenn Sie die Überprüfung übernehmen wollen, hinterlassen Sie einen Kommentar zu dem Problem (vgl. **B**), um anzugeben, dass Sie daran arbeiten werden. Dies verhindert doppelte Arbeit.
-- Klicken Sie auf den Link neben der zu prüfenden Datei (vgl. **C**), um auf den Inhalt zuzugreifen.
+- Die Ausgabe enthält eine Beschreibung (vgl. \**A\**) mit Links zum ursprünglichen Inhalt und der zu prüfenden Datei.
+- Wenn Sie die Überprüfung übernehmen wollen, hinterlassen Sie einen Kommentar zu dem Problem (vgl. \**B\**), um anzugeben, dass Sie daran arbeiten werden. Dies verhindert doppelte Arbeit.
+- Klicken Sie auf den Link neben der zu prüfenden Datei (vgl. \**C\**), um auf den Inhalt zuzugreifen.
 
 ![REVIEW](assets/fr/03.webp)
 
 
 - Sie können nun die GitHub-Schnittstelle der zu prüfenden Datei anzeigen.
-- Im linken Bereich können Sie durch Ihren Zweig (vgl. **A**) und Ihre Dateien (vgl. **B**) navigieren.
-- Klicken Sie auf das Bleistiftsymbol, um mit der Überprüfung zu beginnen (vgl. **C**).
+- Im linken Bereich können Sie durch Ihren Zweig (vgl. \**A\**) und Ihre Dateien (vgl. \**B\**) navigieren.
+- Klicken Sie auf das Bleistiftsymbol, um mit der Überprüfung zu beginnen (vgl. \**C\**).
 
 ![REVIEW](assets/fr/04.webp)
 
@@ -78,7 +78,7 @@ https://planb.network/tutorials/others/contribution/create-github-account-a75fc3
 ![REVIEW](assets/fr/05.webp)
 
 
-- Sie gelangen dann zur Editor-Oberfläche (vgl. **A**), wo Sie den Dateipfad und die entsprechende Verzweigung sehen (vgl. **B**) und zwischen Bearbeitungs- und Vorschaumodus wechseln können (vgl. **C**).
+- Sie gelangen dann zur Editor-Oberfläche (vgl. \**A\**), wo Sie den Dateipfad und die entsprechende Verzweigung sehen (vgl. \**B\**) und zwischen Bearbeitungs- und Vorschaumodus wechseln können (vgl. \**C\**).
 
 ![REVIEW](assets/fr/06.webp)
 
@@ -94,9 +94,9 @@ NB. Es wird empfohlen, den Text im Code-Fenster zu überprüfen, wobei der Origi
 ![REVIEW](assets/fr/07.webp)
 
 
-- Fügen Sie eine beschreibende Meldung für Ihre Änderungen hinzu (vgl. **A**).
-- Fügen Sie in der Beschreibung erforderlichenfalls mehr Kontext hinzu (vgl. **B**).
-- Klicken Sie auf die Schaltfläche "Änderungen vorschlagen" (vgl. **C**).
+- Fügen Sie eine beschreibende Meldung für Ihre Änderungen hinzu (vgl. \**A\**).
+- Fügen Sie in der Beschreibung erforderlichenfalls mehr Kontext hinzu (vgl. \**B\**).
+- Klicken Sie auf die Schaltfläche "Änderungen vorschlagen" (vgl. \**C\**).
 
 ![REVIEW](assets/fr/08.webp)
 
@@ -118,7 +118,7 @@ NB. Es wird empfohlen, den Text im Code-Fenster zu überprüfen, wobei der Origi
 ![REVIEW](assets/fr/14.webp)
 
 
-- Wählen Sie den Zweig aus, der Ihren Fortschritt enthält (vgl. **A**), suchen Sie Ihre Inhaltsdatei (vgl. **B**), und klicken Sie dann auf das Bleistiftsymbol, um die Überprüfung fortzusetzen.
+- Wählen Sie den Zweig aus, der Ihren Fortschritt enthält (vgl. \**A\**), suchen Sie Ihre Inhaltsdatei (vgl. \**B\**), und klicken Sie dann auf das Bleistiftsymbol, um die Überprüfung fortzusetzen.
 
 ![REVIEW](assets/fr/15.webp)
 
@@ -131,8 +131,8 @@ NB. Es wird empfohlen, den Text im Code-Fenster zu überprüfen, wobei der Origi
 
 
 - Sie gelangen dann auf die PR-Seite. Ein Pull Request ist eine Anfrage zur Übermittlung von Änderungen, die in einem Zweig eines entfernten Repositorys vorgenommen wurden, zur Überprüfung und möglichen Zusammenführung in den Hauptzweig.
-- Fügen Sie einen Titel und eine kurze Beschreibung zu Ihrer PR hinzu. Der Titel sollte zu der Ausgabe passen, an der Sie arbeiten. Wenn der Titel der Ausgabe zum Beispiel `[ÜBERSETZUNG] Kurs CYP201 - FR` lautet, verwenden Sie den gleichen Titel für Ihre PR (vgl. **A**). Erwähnen Sie in der Beschreibung die zugehörige Ausgabe mit ihrer Nummer und dem vorangestellten "Schließt". Dadurch wird das Problem automatisch geschlossen, sobald der PR zusammengeführt wird (vgl. **B**).
-- Wenn alles gut aussieht, klicken Sie auf die grüne Schaltfläche "Pull Request erstellen" (vgl. **C**).
+- Fügen Sie einen Titel und eine kurze Beschreibung zu Ihrer PR hinzu. Der Titel sollte zu der Ausgabe passen, an der Sie arbeiten. Wenn der Titel der Ausgabe zum Beispiel `[ÜBERSETZUNG] Kurs CYP201 - FR` lautet, verwenden Sie den gleichen Titel für Ihre PR (vgl. \**A\**). Erwähnen Sie in der Beschreibung die zugehörige Ausgabe mit ihrer Nummer und dem vorangestellten "Schließt". Dadurch wird das Problem automatisch geschlossen, sobald der PR zusammengeführt wird (vgl. \**B\**).
+- Wenn alles gut aussieht, klicken Sie auf die grüne Schaltfläche "Pull Request erstellen" (vgl. \**C\**).
 
 ![REVIEW](assets/fr/11.webp)
 
@@ -144,7 +144,7 @@ NB. Es wird empfohlen, den Text im Code-Fenster zu überprüfen, wobei der Origi
 - Wenn Sie Zitate finden, stellen Sie sicher, dass Sie online recherchieren, um die richtige Übersetzung in Ihrer Sprache zu finden.
 - ÜBERSETZEN SIE NICHT die statischen Wörter am Anfang des Textes, die verwendet werden, um dessen Inhalt zu beschreiben: "name", "description", "objectives".
 - Wenn Sie im Text "Plan ₿ Network" finden, lassen Sie es in dieser ursprünglichen Form. Übersetzen Sie das Wort "plan" oder das Wort "network" nicht. Verwenden Sie außerdem NICHT den Artikel, wenn Sie Plan ₿ Network einführen, und betrachten Sie es als Marke. Das Gleiche gilt für "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", die ebenfalls in der ursprünglichen Form beibehalten werden sollten.
-- Achten Sie auf seltsame Interpunktion wie "\*\*" , die möglicherweise eine schlechte Darstellung des Fettdrucksymbols ** darstellt. Überprüfen Sie immer den ursprünglichen englischen Text, um zu sehen, ob dort ein fetter Text stehen soll. Weitere Informationen zur Markdown-Sprache finden Sie [hier](https://www.markdownguide.org/basic-syntax/).
+- Achten Sie auf seltsame Interpunktion wie `\*\*\` , die möglicherweise eine schlechte Darstellung des Fettdrucksymbols ** darstellt. Überprüfen Sie immer den ursprünglichen englischen Text, um zu sehen, ob dort ein fetter Text stehen soll. Weitere Informationen zur Markdown-Sprache finden Sie [hier](https://www.markdownguide.org/basic-syntax/).
 - Wenn Sie Ihre Korrektur abgeschlossen haben, können Sie zum ursprünglichen Issue zurückkehren, das vom Koordinator eröffnet wurde, mit "Proofreading done" kommentieren und dort Ihren PR-Link einfügen.
 
 ## 7. Warten Sie auf die Überprüfung
@@ -154,8 +154,8 @@ NB. Es wird empfohlen, den Text im Code-Fenster zu überprüfen, wobei der Origi
 ![REVIEW](assets/fr/12.webp)
 
 
-- Herzlichen Dank für Ihren Beitrag! Nach der Genehmigung wird sich ein Mitglied des Plan ₿ Network-Teams mit Ihnen in Verbindung setzen, um Ihnen Ihre Belohnung zukommen zu lassen. **Auszahlungen erfolgen ausschließlich über das Lightning Network**.
-- Wenn Sie wieder anfangen möchten, kehren Sie zu Schritt 2 zurück und senden Sie eine neue Nachricht in der Telegram-Gruppe, um weiterhin zu anderen Inhalten beizutragen. Stellen Sie sicher, dass Sie Ihren Fork synchronisieren, bevor Sie einen neuen Arbeitszweig erstellen. Gehen Sie dazu auf die Homepage Ihrer Abspaltung, wählen Sie den Hauptzweig namens `dev` (vgl. **A**) und klicken Sie dann auf die Schaltfläche "Abspaltung synchronisieren" (vgl. **B**). Wenn Aktualisierungen für Ihren Zweig verfügbar sind, erscheint eine Schaltfläche "Zweig aktualisieren". Klicken Sie einfach auf diese Schaltfläche, um die Aktualisierung durchzuführen.
+- Herzlichen Dank für Ihren Beitrag! Nach der Genehmigung wird sich ein Mitglied des Plan ₿ Network-Teams mit Ihnen in Verbindung setzen, um Ihnen Ihre Belohnung zukommen zu lassen. \**Auszahlungen erfolgen ausschließlich über das Lightning Network\**.
+- Wenn Sie wieder anfangen möchten, kehren Sie zu Schritt 2 zurück und senden Sie eine neue Nachricht in der Telegram-Gruppe, um weiterhin zu anderen Inhalten beizutragen. Stellen Sie sicher, dass Sie Ihren Fork synchronisieren, bevor Sie einen neuen Arbeitszweig erstellen. Gehen Sie dazu auf die Homepage Ihrer Abspaltung, wählen Sie den Hauptzweig namens `dev` (vgl. \**A\**) und klicken Sie dann auf die Schaltfläche "Abspaltung synchronisieren" (vgl. \**B\**). Wenn Aktualisierungen für Ihren Zweig verfügbar sind, erscheint eine Schaltfläche "Zweig aktualisieren". Klicken Sie einfach auf diese Schaltfläche, um die Aktualisierung durchzuführen.
 
 ![REVIEW](assets/fr/16.webp)
 
